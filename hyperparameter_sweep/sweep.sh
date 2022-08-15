@@ -1,7 +1,7 @@
 #!/bin/bash
 export OC_DISABLE_DOT_ACCESS_WARNING=1
 
-mmf_run config="projects/visual_bert/configs/hateful_memes/from_coco.yaml" \
+mmf_run config=${10} \
         model="visual_bert" \
         dataset=hateful_memes \
         run_type=train_val \

@@ -1,7 +1,7 @@
 #!/bin/bash
 export OC_DISABLE_DOT_ACCESS_WARNING=1
 
-mmf_predict config="projects/visual_bert/configs/hateful_memes/defaults.yaml" \
+mmf_predict config=$3 \
     model="visual_bert" \
     dataset=hateful_memes \
     run_type=test \
