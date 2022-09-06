@@ -1,3 +1,5 @@
+**ORIGINALLY AUTHORED BEI Riza Velioglu AND Jewgeni Rose**
+
 # <font color='Aqua'><b> Hateful Memes Challenge-Team HateDetectron Submissions </b></font>
 
 Check out the paper on [![arXiv](https://img.shields.io/badge/arXiv-2012.12975-b31b1b.svg)](https://arxiv.org/abs/2012.12975)
